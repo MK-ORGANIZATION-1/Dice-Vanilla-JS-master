@@ -1,2 +1,2 @@
-# Dice-Vanilla-JS-master
-A Dice
+# Dice-Vanilla-JS
+A dice game in Vanilla JS
